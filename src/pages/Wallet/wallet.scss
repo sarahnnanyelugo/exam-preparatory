@@ -1,0 +1,57 @@
+@import "../../variables";
+@import "../../shared-styles";
+
+.balance-sheet {
+  height: 146px;
+  border: 1px solid var(--unnamed-color-2f67d8);
+  background: #2f67d81a 0% 0% no-repeat padding-box;
+  box-shadow: 0px 3px 6px #0000000d;
+  border: 1px solid #2f67d8;
+  border-radius: 10px;
+  padding: 20px;
+  button {
+    @include main-btn;
+    margin-top: 40px;
+  }
+  h1 {
+    font-family: rebondG-Bold;
+  }
+}
+.activity-div2 {
+  height: 106px;
+  background: var(--unnamed-color-ffffff) 0% 0% no-repeat padding-box;
+  background: #ffffff 0% 0% no-repeat padding-box;
+  box-shadow: 0px 3px 6px #0000000d;
+  border: 1px solid #e7e7e7;
+  border-radius: 11px;
+  padding: 0px 20px;
+  margin-top: 20px;
+  @media screen and (max-width: 620px) {
+    height: fit-content;
+    padding: 10px 10px;
+  }
+  small {
+    font-size: 12px;
+    color: #191919;
+    opacity: 0.5;
+  }
+  p {
+    font-size: 14px;
+    color: #191919;
+    opacity: 0.5;
+    line-height: 20px;
+  }
+  h6 {
+    // margin: 0 !important;
+  }
+  img {
+    height: 49px;
+    width: 50px;
+    margin-top: 20px;
+  }
+}
+.wallet-page {
+  @media screen and (max-width: 620px) {
+    padding: 0 10px;
+  }
+}

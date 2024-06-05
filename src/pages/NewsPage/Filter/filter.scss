@@ -1,0 +1,24 @@
+.sort-container input,
+optgroup,
+select,
+textarea {
+  background-color: #fff !important;
+  border: solid 1px #c7c7c7 !important;
+  color: #57585a !important;
+  font-family: rebondBook;
+  width: 70% !important;
+  padding: 3px 10px !important;
+  border-radius: 20px !important;
+  font-size: 12px !important;
+  height: 30px !important;
+  font-weight: bold !important;
+  margin: 0 10px;
+  border: none !important;
+}
+.sort-container {
+  background: #ffffff 0% 0% no-repeat padding-box;
+  border: 1px solid #b2b2b2;
+  border-radius: 60px;
+  height: 35px;
+  padding-left: 10px;
+}

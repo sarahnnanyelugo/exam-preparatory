@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="83" height="83" viewBox="0 0 83 83">
+  <g id="Group_10455" data-name="Group 10455" transform="translate(-142 -1621)">
+    <circle id="Ellipse_61" data-name="Ellipse 61" cx="41.5" cy="41.5" r="41.5" transform="translate(142 1621)" fill="#ebf8f4"/>
+    <g id="vuesax_outline_presention-chart" data-name="vuesax/outline/presention-chart" transform="translate(-197.506 1393.495)">
+      <g id="presention-chart" transform="translate(364 252)">
+        <path id="Vector" d="M22.46,23.382H5.172C1.885,23.382,0,21.5,0,18.209V1.063A1.071,1.071,0,0,1,1.063,0H26.57a1.071,1.071,0,0,1,1.063,1.063V18.209C27.633,21.5,25.748,23.382,22.46,23.382ZM2.126,2.126V18.209c0,2.111.935,3.047,3.047,3.047H22.446c2.111,0,3.047-.935,3.047-3.047V2.126Z" transform="translate(3.188 1.771)" fill="#292d32"/>
+        <path id="Vector-2" data-name="Vector" d="M29.4,2.126H1.063A1.071,1.071,0,0,1,0,1.063,1.071,1.071,0,0,1,1.063,0H29.4a1.071,1.071,0,0,1,1.063,1.063A1.071,1.071,0,0,1,29.4,2.126Z" transform="translate(1.771 1.771)" fill="#292d32"/>
+        <path id="Vector-3" data-name="Vector" d="M1.066,9.211A1.06,1.06,0,0,1,.6,7.2L5.671,4.662v-3.6a1.063,1.063,0,0,1,2.126,0V5.314a1.064,1.064,0,0,1-.6.949L1.534,9.1A1.082,1.082,0,0,1,1.066,9.211Z" transform="translate(10.271 23.027)" fill="#292d32"/>
+        <path id="Vector-4" data-name="Vector" d="M6.725,4.968a1.082,1.082,0,0,1-.468-.113L.59,2.021A1.081,1.081,0,0,1,.108.59,1.081,1.081,0,0,1,1.539.108L7.207,2.942a1.069,1.069,0,0,1-.482,2.026Z" transform="translate(15.947 27.27)" fill="#292d32"/>
+        <path id="Vector-5" data-name="Vector" d="M1.07,6.378A1.075,1.075,0,0,1,.248,6a1.062,1.062,0,0,1,.142-1.5L4.853.766a1.781,1.781,0,0,1,1.431-.4A1.755,1.755,0,0,1,7.5,1.22L8.991,3.7,13.143.242a1.074,1.074,0,0,1,1.5.142,1.062,1.062,0,0,1-.142,1.5L10.04,5.612a1.781,1.781,0,0,1-1.431.4,1.755,1.755,0,0,1-1.219-.85L5.9,2.679,1.75,6.137A1.107,1.107,0,0,1,1.07,6.378Z" transform="translate(9.558 10.273)" fill="#11a377"/>
+        <path id="Vector-6" data-name="Vector" d="M0,0H34.01V34.01H0Z" fill="none" opacity="0"/>
+      </g>
+    </g>
+  </g>
+</svg>

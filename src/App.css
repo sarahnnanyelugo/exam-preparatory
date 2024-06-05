@@ -1,0 +1,85 @@
+@font-face {
+  font-family: rebondG;
+  src: url(./assets/fonts/Rebond_font/RebondG.otf);
+}
+@font-face {
+  font-family: rebondG-Bold;
+  src: url(./assets/fonts/Rebond_font/RebondG-Bold.otf);
+}
+@font-face {
+  font-family: rebondG-Semi-Bold;
+  src: url(./assets/fonts/Rebond_font/Rebond-semibold.otf);
+}
+@font-face {
+  font-family: rebondG-Medium;
+  src: url(./assets/fonts/Rebond_font/RebondGrotesqueMedium.otf);
+}
+@font-face {
+  font-family: rebondBook;
+  src: url(./assets/fonts/Rebond_font/RebondG-Book.ttf);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: rebondG-Semi-Bold;
+}
+
+p {
+  font-family: rebondBook;
+  font-size: 16px;
+}
+small {
+  font-family: rebondBook;
+}
+button {
+  font-family: rebondG-Semi-Bold;
+}
+ul li {
+  font-family: rebondG-Medium;
+}
+@media screen and (min-width: 620px) {
+  .flexy {
+    display: flex;
+  }
+  .flexyc {
+    display: flex;
+    justify-content: center;
+  }
+  .modal-header > div {
+    flex: 1;
+  }
+}
+@media screen and (max-width: 620px) {
+  .flexyM {
+    display: flex;
+  }
+}
+hr {
+  border-color: #a4a2a2 !important;
+}
+
+.dis-none {
+  display: none !important;
+}
+
+body > #root > div {
+  height: 100vh;
+}
+
+:not(:root):fullscreen::backdrop {
+  background: #fff !important;
+}
+
+:not(:root):fullscreen {
+  overflow-y: auto;
+}
+@media screen and (max-width: 820px) {
+  .mobile-padding {
+    padding-right: 7px;
+    padding-left: 7px;
+  }
+}

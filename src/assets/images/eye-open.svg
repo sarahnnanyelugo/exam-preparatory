@@ -1,0 +1,5 @@
+<svg id="eye" xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 14 14">
+  <path id="Vector" d="M4.177,2.088A2.088,2.088,0,1,1,2.088,0,2.086,2.086,0,0,1,4.177,2.088Z" transform="translate(4.912 4.912)" fill="none" stroke="#292d32" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+  <path id="Vector-2" data-name="Vector" d="M5.708,9.654a6.426,6.426,0,0,0,5.314-3.313,3.107,3.107,0,0,0,0-3.028A6.426,6.426,0,0,0,5.708,0,6.426,6.426,0,0,0,.394,3.313a3.107,3.107,0,0,0,0,3.028A6.426,6.426,0,0,0,5.708,9.654Z" transform="translate(1.292 2.17)" fill="none" stroke="#292d32" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+  <path id="Vector-3" data-name="Vector" d="M0,0H14V14H0Z" transform="translate(14 14) rotate(180)" fill="none" opacity="0"/>
+</svg>

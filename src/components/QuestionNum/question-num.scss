@@ -1,0 +1,42 @@
+.question-btn {
+  height: 25px;
+  width: 25px;
+  color: #fff;
+  border: solid 1px #cecbcb;
+  font-size: 12px;
+  border-radius: 3px;
+  font-family: rebondG-Medium;
+  text-align: center !important;
+  @media screen and (max-width: 620px) {
+    height: 30px;
+    width: 30px;
+  }
+}
+
+
+:focus {
+  outline: -webkit-focus-ring-color auto 0;
+  outline-color: -webkit-focus-ring-color;
+  outline-style: auto;
+  outline-width: 0;
+}
+
+.not_attended{
+  //background-color: #41546d!important;
+  background-color: white!important;
+  color: #000!important;
+}
+.viewed{
+  background-color: #CECBCB!important;
+  //background-color: #ff9214!important;
+  color: #ffffff!important;
+}
+.attended{
+  background-color: #5EAA42!important;
+  //background-color: #09ab76!important;
+  color: #ffffff!important;
+}
+.selected{
+  background-color: #2F67D8!important;
+  color: #ffffff!important;
+}

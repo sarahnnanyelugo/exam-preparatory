@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="56" height="56" viewBox="0 0 56 56">
+  <g id="Group_10302" data-name="Group 10302" transform="translate(-321 -1888)">
+    <g id="Rectangle_8691" data-name="Rectangle 8691" transform="translate(321 1888)" fill="#fff" stroke="#4a13b2" stroke-width="1.5">
+      <rect width="56" height="56" rx="28" stroke="none"/>
+      <rect x="0.75" y="0.75" width="54.5" height="54.5" rx="27.25" fill="none"/>
+    </g>
+    <g id="vuesax_linear_card" data-name="vuesax/linear/card" transform="translate(335.597 1902.598)">
+      <g id="card" transform="translate(0 0)">
+        <path id="Vector" d="M0,0H22.338" transform="translate(2.234 9.499)" fill="none" stroke="#4a13b2" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+        <path id="Vector-2" data-name="Vector" d="M0,0H2.234" transform="translate(6.701 18.434)" fill="none" stroke="#4a13b2" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+        <path id="Vector-3" data-name="Vector" d="M0,0H4.468" transform="translate(11.727 18.434)" fill="none" stroke="#4a13b2" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+        <path id="Vector-4" data-name="Vector" d="M4.959,0H17.368c3.976,0,4.97.983,4.97,4.9v9.17c0,3.92-.994,4.9-4.959,4.9H4.959C.994,18.987,0,18,0,14.084V4.9C0,.983.994,0,4.959,0Z" transform="translate(2.234 3.915)" fill="none" stroke="#4a13b2" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+        <path id="Vector-5" data-name="Vector" d="M0,0H26.805V26.805H0Z" fill="none" opacity="0"/>
+      </g>
+    </g>
+  </g>
+</svg>

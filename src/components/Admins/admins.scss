@@ -1,0 +1,140 @@
+@import "../../variables";
+@import "../../shared-styles";
+
+.mobile-ms {
+  @media screen and (max-width: 620px) {
+    padding: 4rem 10px;
+  }
+  .unit {
+    h3 {
+      flex-grow: 1;
+    }
+    button {
+      color: #2f67d8;
+      background: #2f67d81a;
+      border: solid 1px #2f67d8;
+      width: 7rem;
+      font-size: 14px;
+      height: 32px;
+      border-radius: 100px;
+      @media screen and (max-width: 620px) {
+        width: 8rem;
+        font-size: 12px;
+        height: 41px;
+      }
+    }
+    @media screen and (max-width: 620px) {
+      margin-bottom: 3px;
+    }
+  }
+  .sort {
+    h3 {
+      flex-grow: 1;
+      @media screen and (max-width: 620px) {
+        font-size: 16px;
+        //margin-top: 10px;
+      }
+    }
+    h6 {
+      margin-top: 5px;
+      margin-right: 5px;
+    }
+    select {
+      border: solid 1px #cecbcb;
+      border-radius: 35px;
+      width: 110px;
+      height: 30px;
+      background: #fff;
+      font-family: rebondG-Medium;
+      font-size: 14px;
+      color: #191919;
+      padding: 0 3px;
+    }
+  }
+}
+
+.pag-btn {
+  //background: inherit !important;
+  //color: inherit;
+  border-radius: 100px;
+  padding: 5px 15px;
+  font-size: 14px;
+  border: solid 1px #414244;
+  font-family: rebondG-Semi-Bold;
+}
+.questions-div,
+.mobile-ms .div-row {
+  border: 2px solid #e7e7e7;
+  border-radius: 15px;
+  height: 80px;
+  // margin-bottom: 30px;
+  // padding-top: 20px;
+
+  @media screen and (max-width: 620px) {
+    height: fit-content;
+    overflow: scroll;
+  }
+  h6 {
+    font-size: 16px;
+  }
+  p {
+    font-size: 14px;
+  }
+  button {
+    @include main-btn;
+  }
+
+  tr td {
+    // border: 2px solid #e7e7e7;
+    // border: none;
+    // height: 70px;
+    // padding: 0 !important;
+    // background-color: black;
+    // padding-top: 60px;
+    // text-align: left;
+    // overflow: scroll;
+    small {
+      font-size: 14px;
+    }
+  }
+}
+.row1 {
+  @media screen and (max-width: 620px) {
+    width: 200px;
+  }
+}
+.row2 {
+  @media screen and (max-width: 620px) {
+    width: 150px;
+  }
+}
+.row3 {
+  @media screen and (max-width: 620px) {
+    width: 150px;
+  }
+}
+.row4 {
+  @media screen and (max-width: 620px) {
+    width: 80px;
+  }
+}
+.card-exam {
+  .col {
+    padding-right: 0;
+  }
+  .col.firstc {
+    padding-left: 1rem;
+  }
+
+  .flexy {
+    display: flex;
+  }
+  .flexyc {
+    display: flex;
+    justify-content: center;
+  }
+}
+.text-right {
+  display: flex;
+  justify-content: right;
+}

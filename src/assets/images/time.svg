@@ -1,0 +1,7 @@
+<svg id="vuesax_outline_clock" data-name="vuesax/outline/clock" xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
+  <g id="clock">
+    <path id="Vector" d="M9.75,19.5A9.75,9.75,0,1,1,19.5,9.75,9.758,9.758,0,0,1,9.75,19.5Zm0-18.14a8.39,8.39,0,1,0,8.39,8.39A8.4,8.4,0,0,0,9.75,1.36Z" transform="translate(1.25 1.25)" fill="#4a13b2"/>
+    <path id="Vector-2" data-name="Vector" d="M4.82,9.17a.67.67,0,0,1-.38-.11L1.34,7.21A2.949,2.949,0,0,1,0,4.85V.75A.755.755,0,0,1,.75,0,.755.755,0,0,1,1.5.75v4.1a1.478,1.478,0,0,0,.61,1.07l3.1,1.85A.749.749,0,0,1,5.47,8.8.77.77,0,0,1,4.82,9.17Z" transform="translate(9.708 5.848)" fill="#4a13b2"/>
+    <path id="Vector-3" data-name="Vector" d="M0,0H22V22H0Z" fill="none" opacity="0"/>
+  </g>
+</svg>

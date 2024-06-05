@@ -1,0 +1,142 @@
+//@use 'sass:math';
+//@import "scss/variables";
+//@import "scss/forms";
+
+.mt1 {
+  margin-top: 10px;
+}
+.mt2 {
+  margin-top: 20px;
+}
+.mt3 {
+  margin-top: 30px;
+}
+.mt4 {
+  margin-top: 40px;
+}
+.mt5 {
+  margin-top: 50px;
+}
+.mt6 {
+  margin-top: 60px;
+}
+.mt7 {
+  margin-top: 70px;
+}
+.mt8 {
+  margin-top: 80px;
+}
+.mt9 {
+  margin-top: 90px;
+}
+.mt {
+  margin-top: 140px;
+}
+.mtt {
+  margin-top: 200px;
+}
+.bb {
+  border-bottom: solid 1px rgb(233, 229, 229);
+}
+.bt {
+  border-top: solid 1px rgb(233, 229, 229);
+}
+.pd {
+  padding: 80px 0;
+}
+.br {
+  border-right: solid 1px rgb(233, 229, 229);
+}
+.no-m {
+  @media screen and (max-width: 620px) {
+    margin: 0 !important;
+  }
+}
+.ml {
+  margin-left: 10px;
+}
+.ml4 {
+  margin-left: 40px;
+}
+.ml3 {
+  margin-left: 30px;
+}
+
+.features-link {
+  color: #191919;
+  text-decoration: none;
+  &:hover {
+    color: #191919;
+  }
+}
+
+.mb5 {
+  margin-bottom: 50px;
+}
+.mb4 {
+  margin-bottom: 40px;
+}
+
+.no-margin {
+  @media screen and (max-width: 620px) {
+    margin-top: 0px !important;
+    text-align: center;
+  }
+}
+.margin2 {
+  @media screen and (max-width: 620px) {
+    margin-top: 40px !important;
+  }
+}
+.grad2 {
+  background: rgb(255, 255, 255);
+  background: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 1) 28%,
+    rgba(240, 240, 240, 1) 48%,
+    rgba(255, 255, 255, 1) 75%
+  );
+}
+.dn {
+  @media screen and (max-width: 620px) {
+    display: none;
+  }
+}
+.dnW {
+  @media screen and (min-width: 620px) {
+    display: none;
+  }
+}
+.dnM {
+  @media screen and (max-width: 620px) {
+    display: none;
+  }
+}
+.img-resolv {
+  width: 90%;
+  @media screen and (max-width: 620px) {
+    width: 100%;
+  }
+}
+.link {
+  font-size: 12px;
+  text-decoration: none;
+  color: #000;
+  font-family: rebondG-Semi-Bold;
+  margin-bottom: 0 !important;
+}
+.link2 {
+  font-size: 12px;
+  text-decoration: none;
+  color: #2f67d8;
+  font-family: rebondG-Semi-Bold;
+}
+.mobileview {
+  @media screen and (min-width: 620px) {
+    display: none;
+  }
+}
+
+.form-control-wrap .fpassword{
+  color: black!important;
+}

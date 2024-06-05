@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="83" height="83" viewBox="0 0 83 83">
+  <g id="Group_10451" data-name="Group 10451" transform="translate(-148 -2514)">
+    <g id="Ellipse_63" data-name="Ellipse 63" transform="translate(148 2514)" fill="none" stroke="#707070" stroke-width="1">
+      <circle cx="41.5" cy="41.5" r="41.5" stroke="none"/>
+      <circle cx="41.5" cy="41.5" r="41" fill="none"/>
+    </g>
+    <g id="vuesax_outline_diagram" data-name="vuesax/outline/diagram" transform="translate(-127 2286.999)">
+      <g id="diagram" transform="translate(300 252)">
+        <path id="Vector" d="M28.533,29.564H5.157A5.158,5.158,0,0,1,0,24.408V1.031A1.039,1.039,0,0,1,1.031,0,1.039,1.039,0,0,1,2.063,1.031V24.408A3.1,3.1,0,0,0,5.157,27.5H28.533a1.031,1.031,0,0,1,0,2.063Z" transform="translate(1.719 1.719)" fill="#11a377"/>
+        <path id="Vector-2" data-name="Vector" d="M1.031,15.813a1.031,1.031,0,0,1-.784-1.705l6.312-7.37a3.805,3.805,0,0,1,2.723-1.32,3.844,3.844,0,0,1,2.819,1.1l1.306,1.306a1.775,1.775,0,0,0,1.279.509,1.681,1.681,0,0,0,1.238-.605L22.235.357A1.034,1.034,0,1,1,23.8,1.7l-6.312,7.37a3.805,3.805,0,0,1-2.723,1.32,3.844,3.844,0,0,1-2.819-1.1L10.657,7.989A1.72,1.72,0,0,0,9.378,7.48a1.681,1.681,0,0,0-1.238.605l-6.312,7.37A1.1,1.1,0,0,1,1.031,15.813Z" transform="translate(5.844 8.595)" fill="#11a377"/>
+        <path id="Vector-3" data-name="Vector" d="M0,0H33V33H0Z" fill="none" opacity="0"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="46.312" height="46.312" viewBox="0 0 46.312 46.312">
+  <g id="vuesax_twotone_lock" data-name="vuesax/twotone/lock" transform="translate(-172 -252)">
+    <g id="lock" transform="translate(172 252)">
+      <path id="Vector" d="M0,15.437V11.578C0,5.191,1.93,0,11.578,0S23.156,5.191,23.156,11.578v3.859" transform="translate(11.578 3.859)" fill="none" stroke="#ed2f59" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" opacity="0.4"/>
+      <path id="Vector-2" data-name="Vector" d="M9.648,4.824A4.824,4.824,0,1,1,4.824,0,4.824,4.824,0,0,1,9.648,4.824Z" transform="translate(18.332 26.051)" fill="none" stroke="#ed2f59" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" opacity="0.4"/>
+      <path id="Vector-3" data-name="Vector" d="M28.945,23.156H9.648C1.93,23.156,0,21.226,0,13.508V9.648C0,1.93,1.93,0,9.648,0h19.3c7.719,0,9.648,1.93,9.648,9.648v3.859C38.593,21.226,36.664,23.156,28.945,23.156Z" transform="translate(3.859 19.297)" fill="none" stroke="#ed2f59" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Vector-4" data-name="Vector" d="M0,0H46.312V46.312H0Z" transform="translate(46.312 46.312) rotate(180)" fill="none" opacity="0"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,131 @@
+.modal-backdrop {
+  --bs-backdrop-opacity: 0.9 !important;
+}
+.test-modal-div {
+  p {
+    font-size: 14px !important;
+  }
+}
+.questions-div button.continue-btn,
+.questions-div button.remove-btn {
+  background: red !important;
+}
+.questions-div button.resolve-btn {
+  background: green !important;
+}
+
+.flag-cls .formbutton {
+  margin-top: 5px;
+  width: 6rem;
+}
+
+.attempts-btn {
+  border: solid 1px #2f67d8;
+  box-shadow: 0px 3px 6px #0000000d;
+  border-radius: 10px;
+  width: 80px;
+  height: 52px;
+  color: #2f67d8;
+  background: #2f67d81a;
+  font-size: 14px;
+}
+.modal-tops {
+  flex-grow: 1 !important;
+}
+.test-body {
+  padding: 10px;
+}
+.modal-footer {
+  display: block !important;
+}
+.cance-btn {
+  background: #d52143;
+  border: solid 1px #414244;
+  color: #fff;
+  border-radius: 100px;
+  font-size: 14px !important;
+  width: 81px;
+  height: 36px;
+  font-family: rebondG-Semi-Bold;
+}
+.start-btn {
+  float: right;
+  button {
+    background: #2f67d8;
+    border: solid 1px #414244;
+    width: 124px;
+    height: 38px;
+    border-radius: 100px;
+    font-family: rebondG-Semi-Bold;
+    font-size: 14px !important;
+    color: #fff;
+  }
+  h6 {
+    margin-top: 5px;
+    margin-right: 10px;
+  }
+}
+
+.wallet-btn {
+  float: right;
+  button {
+    background: #2f67d8;
+    border: solid 1px #414244;
+    height: 38px;
+    border-radius: 100px;
+    font-family: rebondG-Semi-Bold;
+    font-size: 14px !important;
+    color: #fff;
+  }
+  h6 {
+    margin-top: 5px;
+    margin-right: 10px;
+  }
+}
+
+.loader {
+  border: 10px solid #f3f3f3;
+  border-top: 10px solid #3498db;
+  border-radius: 50%;
+  width: 80px;
+  height: 80px;
+  animation: spin 1s linear infinite;
+}
+@-ms-keyframes spin {
+  from {
+    -ms-transform: rotate(0deg);
+  }
+  to {
+    -ms-transform: rotate(360deg);
+  }
+}
+@-moz-keyframes spin {
+  from {
+    -moz-transform: rotate(0deg);
+  }
+  to {
+    -moz-transform: rotate(360deg);
+  }
+}
+@-webkit-keyframes spin {
+  from {
+    -webkit-transform: rotate(0deg);
+  }
+  to {
+    -webkit-transform: rotate(360deg);
+  }
+}
+@keyframes spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media screen and (max-width: 620px) {
+  .start-btn button {
+    width: 110px;
+  }
+}

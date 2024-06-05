@@ -1,0 +1,153 @@
+@import "../../variables";
+@import "../../shared-styles";
+
+.gcontainer-mobile{
+  display: flex;
+  flex-direction: row;
+  border: 2px solid #e7e7e7;
+  border-radius: 15px;
+  box-shadow: 0px 3px 6px #0000000d;
+  height: 100px;
+  margin-bottom: 15px;
+  padding: 20px 30px;
+  //gap: 60px;
+
+  //@media screen and (max-width: 620px) {
+  //  height: fit-content;
+  //  overflow: scroll;
+  //}
+  h6 {
+    font-size: 16px;
+  }
+  p {
+    font-size: 14px;
+  }
+  button {
+    @include main-btn;
+  }
+  tr td {
+    // border: 2px solid #e7e7e7;
+    // border: none;
+    // height: 70px;
+    // padding: 0 !important;
+    // background-color: black;
+    // padding-top: 60px;
+    // text-align: left;
+    // overflow: scroll;
+    small {
+      font-size: 14px;
+    }
+  }
+
+  .ganimate {
+    animation-duration: 8s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: infinite;
+    animation-name: placeholdershimmer;
+    animation-timing-function: linear;
+    background-color: #f6f7f8;
+    background: linear-gradient(to right, #eeeeee 8%, #bbbbbb 18%, #eeeeee 33%);
+  }
+
+  .ghostlogo {
+    width: 50px;
+    height: 50px;
+    background-color: #f6f7f8;
+    border-radius: 50%;
+  }
+
+  .gsession_subject {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    width: 23%;
+  }
+  .gsession,
+  .gquestions {
+    height: 30px;
+    background-color: gray;
+  }
+
+  .gsubject, .gduration {
+    height: 30px;
+    width: 50%;
+    background-color: gray;
+  }
+
+  .gduration_questions {
+    display: flex;
+    flex-direction: column;
+    //gap: 10px;
+    width: 90%;
+    //margin-left: 60px;
+  }
+
+  .gmarks {
+    height: 20px;
+    background-color: gray;
+    width: 6%;
+    margin-left: 18px;
+    align-self: center;
+    margin-right: 19%;
+  }
+
+  .gunit {
+    height: 20px;
+    background-color: gray;
+    width: 3%;
+    margin-left: 18px;
+    align-self: center;
+  }
+
+  .gactionbtn {
+    height: 20px;
+    background-color: gray;
+    width: 5%;
+    margin-left: 18px;
+    align-self: center;
+  }
+}
+
+@keyframes placeholdershimmer {
+  0% {
+    background-position: -800px 0;
+  }
+  100% {
+    background-position: 800px 0;
+  }
+}
+
+
+.row1 {
+  @media screen and (max-width: 620px) {
+    width: 200px;
+  }
+}
+
+.row2 {
+  @media screen and (max-width: 620px) {
+    width: 150px;
+  }
+}
+.row3 {
+  @media screen and (max-width: 620px) {
+    width: 150px;
+  }
+}
+.row4 {
+  @media screen and (max-width: 620px) {
+    width: 80px;
+  }
+}
+
+.rowm3 {
+  @media screen and (max-width: 620px) {
+    width: 120px;
+  }
+}
+
+.rowms3 {
+  @media screen and (max-width: 620px) {
+    width: 90px;
+  }
+}

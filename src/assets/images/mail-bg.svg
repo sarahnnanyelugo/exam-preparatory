@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1440" height="605" viewBox="0 0 1440 605">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_8703" data-name="Rectangle 8703" width="1440" height="605" transform="translate(0 157)" fill="#f5dcf8"/>
+    </clipPath>
+  </defs>
+  <g id="Group_10349" data-name="Group 10349" transform="translate(0 -157)">
+    <rect id="Rectangle_8698" data-name="Rectangle 8698" width="1440" height="605" transform="translate(0 157)" fill="#f5dcf8"/>
+    <g id="Mask_Group_27" data-name="Mask Group 27" opacity="0.25" clip-path="url(#clip-path)" style="mix-blend-mode: normal;isolation: isolate">
+      <g id="vuesax_linear_sms-edit" data-name="vuesax/linear/sms-edit" transform="translate(-80.692 111.745)">
+        <g id="sms-edit" transform="translate(0 250)">
+          <path id="Vector" d="M216.773,368.514H108.386C43.355,368.514,0,336,0,260.127V108.386C0,32.516,43.355,0,108.386,0H325.159c65.032,0,108.386,32.516,108.386,108.386v65.032" transform="translate(43.355 75.87)" fill="none" stroke="#ebb8f1" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+          <path id="Vector-2" data-name="Vector" d="M216.773,0l-67.85,54.193c-22.328,17.775-58.962,17.775-81.29,0L0,0" transform="translate(151.741 195.096)" fill="none" stroke="#ebb8f1" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+          <g id="Group" transform="translate(328.864 307.752)">
+            <path id="Vector-3" data-name="Vector" d="M87.557,12.421,10.82,89.159a26.714,26.714,0,0,0-6.5,12.79L.2,131.213c-1.517,10.622,5.853,17.992,16.475,16.475l29.264-4.119c4.119-.65,9.971-3.469,12.79-6.5l76.738-76.737c13.223-13.223,19.51-28.614,0-48.124C116.172-7.088,100.781-.8,87.557,12.421Z" transform="translate(0 0)" fill="none" stroke="#ebb8f1" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+            <path id="Vector-4" data-name="Vector" d="M0,0A69.05,69.05,0,0,0,48.124,48.124" transform="translate(76.502 23.477)" fill="none" stroke="#ebb8f1" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+          </g>
+          <path id="Vector-5" data-name="Vector" d="M0,0H520.255V520.255H0Z" fill="none" opacity="0"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

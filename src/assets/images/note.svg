@@ -1,0 +1,8 @@
+<svg id="note" xmlns="http://www.w3.org/2000/svg" width="54.011" height="54.011" viewBox="0 0 54.011 54.011">
+  <path id="Vector" d="M0,0V6.751" transform="translate(18.004 4.501)" fill="none" stroke="#11a377" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5"/>
+  <path id="Vector-2" data-name="Vector" d="M0,0V6.751" transform="translate(36.007 4.501)" fill="none" stroke="#11a377" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5"/>
+  <path id="Vector-3" data-name="Vector" d="M0,0H18" transform="translate(15.753 29.256)" fill="none" stroke="#11a377" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5"/>
+  <path id="Vector-4" data-name="Vector" d="M0,0H11.252" transform="translate(15.753 38.258)" fill="none" stroke="#11a377" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5"/>
+  <path id="Vector-5" data-name="Vector" d="M29.256,0C36.75.405,40.508,3.263,40.508,13.84V27.748c0,9.272-2.25,13.908-13.5,13.908H13.5C2.25,41.656,0,37.02,0,27.748V13.84C0,3.263,3.758.428,11.252,0Z" transform="translate(6.751 7.877)" fill="none" stroke="#11a377" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5"/>
+  <path id="Vector-6" data-name="Vector" d="M0,0H54.011V54.011H0Z" fill="none" opacity="0"/>
+</svg>

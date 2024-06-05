@@ -1,0 +1,27 @@
+.pointer {
+  cursor: pointer;
+}
+
+.first {
+  padding-right: 10px;
+  color: #0d6efd;
+  cursor: pointer;
+}
+
+.pagination {
+  margin-top: 10px;
+}
+
+.page-item,
+.page-link {
+  margin: 0px 3px;
+  border-radius: 3px;
+}
+
+.pagination {
+  // position: absolute;
+  display: flexbox;
+  align-items: center;
+  align-self: flex-end;
+  margin-bottom: 10px;
+}

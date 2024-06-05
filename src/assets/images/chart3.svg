@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="83" height="83" viewBox="0 0 83 83">
+  <g id="Group_10453" data-name="Group 10453" transform="translate(-148 -2976)">
+    <g id="Ellipse_65" data-name="Ellipse 65" transform="translate(148 2976)" fill="#fff" stroke="#707070" stroke-width="1">
+      <circle cx="41.5" cy="41.5" r="41.5" stroke="none"/>
+      <circle cx="41.5" cy="41.5" r="41" fill="none"/>
+    </g>
+    <g id="vuesax_outline_chart" data-name="vuesax/outline/chart" transform="translate(-383.148 2748.852)">
+      <g id="chart" transform="translate(556 252)">
+        <path id="Vector" d="M28.787,2.081H1.04A1.048,1.048,0,0,1,0,1.04,1.048,1.048,0,0,1,1.04,0H28.787a1.048,1.048,0,0,1,1.04,1.04A1.048,1.048,0,0,1,28.787,2.081Z" transform="translate(1.734 29.481)" fill="#11a377"/>
+        <path id="Vector-2" data-name="Vector" d="M7.283,29.827H1.04A1.048,1.048,0,0,1,0,28.787V3.815C0,1.429,1.318,0,3.538,0H4.786c2.22,0,3.538,1.429,3.538,3.815V28.787A1.048,1.048,0,0,1,7.283,29.827Zm-5.2-2.081H6.243V3.815c0-1.6-.749-1.734-1.457-1.734H3.538c-.708,0-1.457.139-1.457,1.734V27.746Z" transform="translate(12.486 1.734)" fill="#11a377"/>
+        <path id="Vector-3" data-name="Vector" d="M6.59,21.5H1.04A1.048,1.048,0,0,1,0,20.463V3.815C0,1.429,1.221,0,3.26,0H4.37C6.409,0,7.63,1.429,7.63,3.815V20.463A1.048,1.048,0,0,1,6.59,21.5ZM2.081,19.422H5.549V3.815c0-1.734-.763-1.734-1.179-1.734H3.26c-.416,0-1.179,0-1.179,1.734V19.422Z" transform="translate(3.121 10.058)" fill="#11a377"/>
+        <path id="Vector-4" data-name="Vector" d="M6.59,14.567H1.04A1.048,1.048,0,0,1,0,13.526V3.815C0,1.429,1.221,0,3.26,0H4.37C6.409,0,7.63,1.429,7.63,3.815v9.711A1.048,1.048,0,0,1,6.59,14.567ZM2.081,12.486H5.549V3.815c0-1.734-.763-1.734-1.179-1.734H3.26c-.416,0-1.179,0-1.179,1.734v8.671Z" transform="translate(22.544 16.995)" fill="#11a377"/>
+        <path id="Vector-5" data-name="Vector" d="M0,0H33.3V33.3H0Z" fill="none" opacity="0"/>
+      </g>
+    </g>
+  </g>
+</svg>

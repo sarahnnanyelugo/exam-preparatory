@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="54.5" height="54.5" viewBox="0 0 54.5 54.5">
+  <g id="vuesax_outline_document-text" data-name="vuesax/outline/document-text" transform="translate(-491.75 -251.75)">
+    <g id="document-text" transform="translate(492 252)">
+      <path id="Vector" d="M30.937,48.375h-18C4.725,48.375,0,43.65,0,35.438v-22.5C0,4.725,4.725,0,12.937,0h18C39.15,0,43.875,4.725,43.875,12.937v22.5C43.875,43.65,39.15,48.375,30.937,48.375Zm-18-45C6.5,3.375,3.375,6.5,3.375,12.937v22.5C3.375,41.873,6.5,45,12.937,45h18c6.435,0,9.563-3.127,9.563-9.562v-22.5c0-6.435-3.127-9.562-9.563-9.562Z" transform="translate(5.063 2.813)" fill="#1899d7" stroke="#fff" stroke-width="0.5"/>
+      <path id="Vector-2" data-name="Vector" d="M10.688,12.375h-4.5A6.184,6.184,0,0,1,0,6.187v-4.5A1.7,1.7,0,0,1,1.688,0,1.7,1.7,0,0,1,3.375,1.688v4.5A2.814,2.814,0,0,0,6.187,9h4.5a1.687,1.687,0,0,1,0,3.375Z" transform="translate(30.937 8.438)" fill="#1899d7" stroke="#fff" stroke-width="0.5"/>
+      <path id="Vector-3" data-name="Vector" d="M10.688,3.375h-9A1.7,1.7,0,0,1,0,1.688,1.7,1.7,0,0,1,1.688,0h9a1.7,1.7,0,0,1,1.687,1.688A1.7,1.7,0,0,1,10.688,3.375Z" transform="translate(16.313 27.562)" fill="#1899d7" stroke="#fff" stroke-width="0.5"/>
+      <path id="Vector-4" data-name="Vector" d="M19.688,3.375h-18A1.7,1.7,0,0,1,0,1.688,1.7,1.7,0,0,1,1.688,0h18a1.7,1.7,0,0,1,1.688,1.688A1.7,1.7,0,0,1,19.688,3.375Z" transform="translate(16.313 36.563)" fill="#1899d7" stroke="#fff" stroke-width="0.5"/>
+      <path id="Vector-5" data-name="Vector" d="M0,0H54V54H0Z" fill="none" stroke="#fff" stroke-width="0.5" opacity="0"/>
+      <path id="Vector-6" data-name="Vector" d="M0,0H54V54H0Z" fill="none" stroke="#fff" stroke-width="0.5" opacity="0"/>
+    </g>
+  </g>
+</svg>

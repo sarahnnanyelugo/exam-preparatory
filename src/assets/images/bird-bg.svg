@@ -1,0 +1,40 @@
+<svg id="Component_20_2" data-name="Component 20 – 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1440" height="777" viewBox="0 0 1440 777">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_7" data-name="Rectangle 7" width="1440" height="777" transform="translate(0 151)" fill="#e7e7e7"/>
+    </clipPath>
+  </defs>
+  <g id="Group_19" data-name="Group 19" transform="translate(0 -151)" opacity="0.25" clip-path="url(#clip-path)">
+    <g id="Patterns" transform="translate(0 -172.039)">
+      <g id="Waiau" transform="translate(0 0)">
+        <g id="Shape" transform="translate(0 0)">
+          <circle id="Ellipse_1" data-name="Ellipse 1" cx="235.611" cy="235.611" r="235.611" transform="translate(116.224 325.929)" fill="#e7e7e7"/>
+          <rect id="Rectangle_9" data-name="Rectangle 9" width="556.603" height="75.845" transform="translate(827.217 562.154) rotate(-30.085)" fill="#e7e7e7"/>
+          <path id="Path_65" data-name="Path 65" d="M318.977,39.025,12.444,0,0,54.979,310.861,98.368Z" transform="matrix(0.723, 0.69, -0.69, 0.723, 548.462, 769.499)" fill="#e7e7e7" fill-rule="evenodd"/>
+          <path id="Path_66" data-name="Path 66" d="M277.7,0,0,64.009l7.464,36.282,273.792-46.9Z" transform="translate(343.345 990.952) rotate(156.828)" fill="#e7e7e7" fill-rule="evenodd"/>
+          <rect id="Rectangle_10" data-name="Rectangle 10" width="153.957" height="23.855" transform="matrix(0.558, 0.83, -0.83, 0.558, 505.056, 954.225)" fill="#e7e7e7"/>
+          <path id="Path_67" data-name="Path 67" d="M144.59,0,3.953,10.593,0,54.39,147.619,51.5Z" transform="matrix(0.575, 0.818, -0.818, 0.575, 625.082, 706.273)" fill="#e7e7e7" fill-rule="evenodd"/>
+          <path id="Path_68" data-name="Path 68" d="M1132.353,0,0,33.207l5.427,75.11,1139.241,18.456Z" transform="matrix(0.836, -0.549, 0.549, 0.836, 391.809, 628.32)" fill="#e7e7e7" fill-rule="evenodd"/>
+          <path id="Path_69" data-name="Path 69" d="M0,0,366.11,2.356V50.014l-361.923-2Z" transform="translate(468.575 727.496) rotate(-29.041)" fill="#e7e7e7" fill-rule="evenodd"/>
+          <rect id="Rectangle_11" data-name="Rectangle 11" width="359.866" height="47.658" transform="matrix(0.766, -0.643, 0.643, 0.766, 33.898, 1217.918)" fill="#e7e7e7"/>
+          <path id="Path_70" data-name="Path 70" d="M0,0,146.7,9.357V41.821L0,32.464Z" transform="translate(224.9 1030.388) rotate(-42.261)" fill="#e7e7e7" fill-rule="evenodd"/>
+          <path id="Path_71" data-name="Path 71" d="M0,10.664,363.3,0V26.9L0,37.563Z" transform="translate(977.489 588.589) rotate(-27.085)" fill="#e7e7e7"/>
+          <path id="Path_72" data-name="Path 72" d="M0,0H359.4V26.9H0Z" transform="translate(1009.494 397.927) rotate(-31.086)" fill="#e7e7e7" fill-rule="evenodd"/>
+          <rect id="Rectangle_12" data-name="Rectangle 12" width="359.479" height="6.799" transform="translate(932.014 672.296) rotate(-27.085)" fill="#e7e7e7"/>
+          <rect id="Rectangle_13" data-name="Rectangle 13" width="896.999" height="20.237" transform="matrix(0.622, 0.783, -0.783, 0.622, 152.06, 379.863)" fill="#e7e7e7"/>
+          <path id="Path_73" data-name="Path 73" d="M592.017,0,3.572,36.245,0,106.223,593.3,80.9Z" transform="translate(169.258 422.264) rotate(54.016)" fill="#e7e7e7" fill-rule="evenodd"/>
+          <ellipse id="Ellipse_2" data-name="Ellipse 2" cx="37.148" cy="36.948" rx="37.148" ry="36.948" transform="matrix(0.972, -0.233, 0.233, 0.972, 820.223, 825.837)" fill="#e7e7e7"/>
+          <ellipse id="Ellipse_3" data-name="Ellipse 3" cx="66.898" cy="66.538" rx="66.898" ry="66.538" transform="matrix(0.972, -0.233, 0.233, 0.972, 7.408, 768.749)" fill="#e7e7e7"/>
+          <ellipse id="Ellipse_4" data-name="Ellipse 4" cx="29.105" cy="28.948" rx="29.105" ry="28.948" transform="matrix(0.972, -0.233, 0.233, 0.972, 350.781, 548.624)" fill="#e7e7e7"/>
+          <ellipse id="Ellipse_5" data-name="Ellipse 5" cx="28.963" cy="28.807" rx="28.963" ry="28.807" transform="matrix(0.972, -0.233, 0.233, 0.972, 192.904, 831.964)" fill="#e7e7e7"/>
+          <path id="Path_74" data-name="Path 74" d="M374.965,593.641,639.726,410.826l-2.244-3.25L372.72,590.39Z" transform="translate(31.873 35.237)" fill="#e7e7e7"/>
+          <path id="Path_75" data-name="Path 75" d="M868.206,949.922l136.934,160.543,5.039-4.3L873.246,945.623Z" transform="translate(75.342 82.44)" fill="#e7e7e7"/>
+          <path id="Path_76" data-name="Path 76" d="M0,1.682,93.324,200.008l3.574-1.682L3.574,0Z" transform="matrix(0.972, -0.233, 0.233, 0.972, 81.173, 234.983)" fill="#e7e7e7"/>
+          <path id="Path_77" data-name="Path 77" d="M174.814,979.35.76,1120.087l2.484,3.072L177.3,982.421Z" transform="translate(-0.76 85.399)" fill="#e7e7e7"/>
+          <path id="Path_78" data-name="Path 78" d="M55.956,55.956V0h4.35V55.956h55.956v4.35H60.306v55.956h-4.35V60.306H0v-4.35Z" transform="translate(986.916 887.777) rotate(-41)" fill="#e7e7e7" fill-rule="evenodd"/>
+          <path id="Path_79" data-name="Path 79" d="M28.815,28.815V0h2.24V28.815H59.87v2.24H31.055V59.87h-2.24V31.055H0v-2.24Z" transform="translate(46.204 810.882) rotate(-41)" fill="#e7e7e7" fill-rule="evenodd"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

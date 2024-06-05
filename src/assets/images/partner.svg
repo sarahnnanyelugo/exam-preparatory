@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="19" height="19" viewBox="0 0 19 19">
+  <g id="vuesax_linear_profile-2user" data-name="vuesax/linear/profile-2user" transform="translate(-172 -252)">
+    <g id="profile-2user" transform="translate(172 252)">
+      <path id="Vector" d="M3.642,7.022a1.439,1.439,0,0,0-.261,0,3.519,3.519,0,1,1,.261,0Z" transform="translate(3.61 1.583)" fill="none" stroke="#161617" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Vector-2" data-name="Vector" d="M.1,0A2.769,2.769,0,0,1,2.874,2.771,2.775,2.775,0,0,1,.206,5.542a.894.894,0,0,0-.206,0" transform="translate(12.888 3.167)" fill="none" stroke="#161617" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Vector-3" data-name="Vector" d="M1.437,1.087c-1.916,1.283-1.916,3.372,0,4.647a7.731,7.731,0,0,0,7.925,0c1.916-1.282,1.916-3.372,0-4.647A7.768,7.768,0,0,0,1.437,1.087Z" transform="translate(1.856 10.44)" fill="none" stroke="#161617" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Vector-4" data-name="Vector" d="M0,4.75a3.829,3.829,0,0,0,1.552-.689,2.005,2.005,0,0,0,0-3.38A3.937,3.937,0,0,0,.024,0" transform="translate(14.519 11.083)" fill="none" stroke="#161617" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Vector-5" data-name="Vector" d="M0,0H19V19H0Z" transform="translate(19 19) rotate(180)" fill="none" opacity="0"/>
+    </g>
+  </g>
+</svg>

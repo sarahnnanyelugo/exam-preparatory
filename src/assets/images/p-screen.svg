@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="56" height="56" viewBox="0 0 56 56">
+  <g id="Group_10303" data-name="Group 10303" transform="translate(-321 -1888)">
+    <g id="Rectangle_8691" data-name="Rectangle 8691" transform="translate(321 1888)" fill="#fff" stroke="#4a13b2" stroke-width="1.5">
+      <rect width="56" height="56" rx="28" stroke="none"/>
+      <rect x="0.75" y="0.75" width="54.5" height="54.5" rx="27.25" fill="none"/>
+    </g>
+    <g id="vuesax_linear_presention-chart" data-name="vuesax/linear/presention-chart" transform="translate(-28.779 1650.221)">
+      <g id="presention-chart" transform="translate(364 252)">
+        <path id="Vector" d="M3.341,17.224h14a2.974,2.974,0,0,0,3.33-3.33V0H0V13.894A2.988,2.988,0,0,0,3.341,17.224Z" transform="translate(3.433 2.297)" fill="none" stroke="#4a13b2" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <path id="Vector-2" data-name="Vector" d="M0,0H22.965" transform="translate(2.297 2.297)" fill="none" stroke="#4a13b2" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <path id="Vector-3" data-name="Vector" d="M0,5.741l4.593-2.3V0" transform="translate(9.186 19.521)" fill="none" stroke="#4a13b2" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <path id="Vector-4" data-name="Vector" d="M4.593,2.3,0,0" transform="translate(13.779 22.965)" fill="none" stroke="#4a13b2" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <path id="Vector-5" data-name="Vector" d="M0,3.445,3.617.425a.554.554,0,0,1,.861.149l1.378,2.3a.561.561,0,0,0,.861.149L10.334,0" transform="translate(8.612 9.186)" fill="none" stroke="#4a13b2" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <path id="Vector-6" data-name="Vector" d="M0,0H27.559V27.559H0Z" fill="none" opacity="0"/>
+      </g>
+    </g>
+  </g>
+</svg>

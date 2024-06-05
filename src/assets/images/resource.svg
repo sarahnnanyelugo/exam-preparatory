@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="45.135" height="45.135" viewBox="0 0 45.135 45.135">
+  <g id="vuesax_twotone_note-2" data-name="vuesax/twotone/note-2" transform="translate(-108 -252)">
+    <g id="note-2" transform="translate(108 252)">
+      <path id="Vector" d="M27.629,14.929,25.786,22.79c-1.58,6.789-4.7,9.535-10.569,8.971a19.772,19.772,0,0,1-3.047-.508L9.011,30.5C1.169,28.639-1.257,24.765.586,16.9l1.843-7.88A19.7,19.7,0,0,1,3.82,4.887C6.021.336,9.763-.887,16.044.6l3.141.733C27.065,3.176,29.472,7.068,27.629,14.929Z" transform="translate(13.105 4.704)" fill="none" stroke="#ed2f59" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Vector-2" data-name="Vector" d="M24.587,26.874a17.625,17.625,0,0,1-4.419,2.031l-2.971.978C9.73,32.29,5.8,30.278,3.374,22.812L.967,15.383C-1.441,7.917.553,3.968,8.019,1.561L10.99.583A19.227,19.227,0,0,1,13.191,0,19.7,19.7,0,0,0,11.8,4.137l-1.843,7.88c-1.843,7.861.583,11.735,8.425,13.6l3.159.752A19.772,19.772,0,0,0,24.587,26.874Z" transform="translate(3.735 9.591)" fill="none" stroke="#ed2f59" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" opacity="0.4"/>
+      <path id="Vector-3" data-name="Vector" d="M0,0,9.121,2.313" transform="translate(23.771 16.042)" fill="none" stroke="#ed2f59" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" opacity="0.4"/>
+      <path id="Vector-4" data-name="Vector" d="M0,0,5.454,1.392" transform="translate(21.928 23.32)" fill="none" stroke="#ed2f59" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" opacity="0.4"/>
+      <path id="Vector-5" data-name="Vector" d="M0,0H45.135V45.135H0Z" transform="translate(45.135 45.135) rotate(180)" fill="none" opacity="0"/>
+    </g>
+  </g>
+</svg>

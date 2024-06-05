@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="57.839" height="57.839" viewBox="0 0 57.839 57.839">
+  <g id="vuesax_linear_book-saved" data-name="vuesax/linear/book-saved" transform="translate(0 -253)">
+    <g id="book-saved" transform="translate(0 253)">
+      <path id="Vector" d="M48.2,4.838V33.927A4.952,4.952,0,0,1,44.006,38.7l-.8.1a61.359,61.359,0,0,0-17.978,5.928,2.6,2.6,0,0,1-2.313,0l-.1-.048a61.918,61.918,0,0,0-17.93-5.88l-.7-.1A4.952,4.952,0,0,1,0,33.927V4.814A4.741,4.741,0,0,1,5.205.018,45.2,45.2,0,0,1,22.22,5.658l.6.361a2.67,2.67,0,0,0,2.555,0l.41-.265A37.16,37.16,0,0,1,31.33,3.031v9.833l4.82-3.205,4.82,3.205V.284A18.7,18.7,0,0,1,42.825.042h.145A4.748,4.748,0,0,1,48.2,4.838Z" transform="translate(4.82 6.416)" fill="none" stroke="#ed2f59" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5"/>
+      <path id="Vector-2" data-name="Vector" d="M0,0V36.15" transform="translate(28.92 13.231)" fill="none" stroke="#ed2f59" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5"/>
+      <path id="Vector-3" data-name="Vector" d="M9.64,0V12.58L4.82,9.375,0,12.58V2.747A48.708,48.708,0,0,1,9.64,0Z" transform="translate(36.15 6.7)" fill="none" stroke="#ed2f59" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5"/>
+      <path id="Vector-4" data-name="Vector" d="M0,0H57.839V57.839H0Z" fill="none" opacity="0"/>
+    </g>
+  </g>
+</svg>

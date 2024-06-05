@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="43" height="43" viewBox="0 0 43 43">
+  <g id="vuesax_twotone_tag-user" data-name="vuesax/twotone/tag-user" transform="translate(-556 -252)">
+    <g id="tag-user" transform="translate(556 252)">
+      <path id="Vector" d="M26.875,30.208H25.513a5.353,5.353,0,0,0-3.8,1.559l-3.064,3.028a3.623,3.623,0,0,1-5.07,0l-3.064-3.028a5.384,5.384,0,0,0-3.8-1.559H5.375A5.345,5.345,0,0,1,0,24.886V5.321A5.345,5.345,0,0,1,5.375,0h21.5A5.345,5.345,0,0,1,32.25,5.321V24.868A5.36,5.36,0,0,1,26.875,30.208Z" transform="translate(5.375 3.583)" fill="none" stroke="#ed2f59" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Vector-2" data-name="Vector" d="M3.637,6.987H3.368A3.495,3.495,0,1,1,6.988,3.494,3.446,3.446,0,0,1,3.637,6.987Z" transform="translate(17.988 9.048)" fill="none" stroke="#ed2f59" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" opacity="0.4"/>
+      <path id="Vector-3" data-name="Vector" d="M1.787,1.344C-.6,2.938-.6,5.536,1.787,7.131a9.622,9.622,0,0,0,9.854,0c2.383-1.595,2.383-4.192,0-5.787A9.7,9.7,0,0,0,1.787,1.344Z" transform="translate(14.786 20.085)" fill="none" stroke="#ed2f59" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" opacity="0.4"/>
+      <path id="Vector-4" data-name="Vector" d="M0,0H43V43H0Z" fill="none" opacity="0"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="54.5" height="54.5" viewBox="0 0 54.5 54.5">
+  <g id="vuesax_outline_monitor" data-name="vuesax/outline/monitor" transform="translate(-427.75 -187.75)">
+    <g id="monitor" transform="translate(428 188)">
+      <path id="Vector" d="M36.7,37.62H11.677C2.723,37.62,0,34.9,0,25.942V11.677C0,2.723,2.723,0,11.677,0h25C45.63,0,48.353,2.723,48.353,11.677V25.92C48.375,34.9,45.652,37.62,36.7,37.62ZM11.677,3.375c-7.065,0-8.3,1.237-8.3,8.3V25.92c0,7.065,1.237,8.3,8.3,8.3h25c7.065,0,8.3-1.237,8.3-8.3V11.677c0-7.065-1.238-8.3-8.3-8.3Z" transform="translate(2.813 2.813)" fill="#11a377" stroke="#fff" stroke-width="0.5"/>
+      <path id="Vector-2" data-name="Vector" d="M1.688,7.38C.765,7.38,0,6.98,0,6.5V.881C0,.4.765,0,1.688,0S3.375.4,3.375.881V6.5C3.375,6.98,2.61,7.38,1.688,7.38Z" transform="translate(25.313 40.432)" fill="#11a377" stroke="#fff" stroke-width="0.5"/>
+      <path id="Vector-3" data-name="Vector" d="M39.343,3.375H1.422A1.584,1.584,0,0,1,0,1.688,1.584,1.584,0,0,1,1.422,0H39.343a1.584,1.584,0,0,1,1.422,1.688A1.584,1.584,0,0,1,39.343,3.375Z" transform="translate(6.618 27.563)" fill="#11a377" stroke="#fff" stroke-width="0.5"/>
+      <path id="Vector-4" data-name="Vector" d="M21.938,3.375H1.688A1.7,1.7,0,0,1,0,1.688,1.7,1.7,0,0,1,1.688,0h20.25a1.7,1.7,0,0,1,1.688,1.688A1.7,1.7,0,0,1,21.938,3.375Z" transform="translate(15.188 47.813)" fill="#11a377" stroke="#fff" stroke-width="0.5"/>
+      <path id="Vector-5" data-name="Vector" d="M0,0H54V54H0Z" fill="none" stroke="#fff" stroke-width="0.5" opacity="0"/>
+    </g>
+  </g>
+</svg>

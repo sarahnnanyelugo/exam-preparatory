@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="56" height="56" viewBox="0 0 56 56">
+  <g id="Group_10305" data-name="Group 10305" transform="translate(-321 -1888)">
+    <g id="Rectangle_8691" data-name="Rectangle 8691" transform="translate(321 1888)" fill="#fff" stroke="#4a13b2" stroke-width="1.5">
+      <rect width="56" height="56" rx="28" stroke="none"/>
+      <rect x="0.75" y="0.75" width="54.5" height="54.5" rx="27.25" fill="none"/>
+    </g>
+    <g id="vuesax_outline_note" data-name="vuesax/outline/note" transform="translate(-92.866 1650.134)">
+      <g id="note" transform="translate(428 252)">
+        <path id="Vector" d="M14.733,22.244H5.489C2,22.244,0,20.245,0,16.755V5.489C0,1.849,1.849,0,5.489,0a.873.873,0,0,1,.867.867A1.736,1.736,0,0,0,8.089,2.6h4.044A1.731,1.731,0,0,0,13.866.867.873.873,0,0,1,14.733,0c3.64,0,5.489,1.849,5.489,5.489V16.755C20.222,20.245,18.223,22.244,14.733,22.244Zm-10-20.487c-1.826.15-3,.971-3,3.732V16.755c0,2.565,1.19,3.755,3.755,3.755h9.244c2.565,0,3.755-1.19,3.755-3.755V5.489c0-2.762-1.179-3.571-3-3.732a3.473,3.473,0,0,1-3.351,2.577H8.089a3.435,3.435,0,0,1-2.45-1.017A3.491,3.491,0,0,1,4.738,1.756Z" transform="translate(3.755 4.044)" fill="#4a13b2"/>
+        <path id="Vector-2" data-name="Vector" d="M7.511,6.933H3.467A3.472,3.472,0,0,1,0,3.467,3.477,3.477,0,0,1,3.467,0H7.511a3.472,3.472,0,0,1,3.467,3.467A3.477,3.477,0,0,1,7.511,6.933Zm-4.044-5.2a1.733,1.733,0,0,0,0,3.467H7.511a1.733,1.733,0,0,0,0-3.467Z" transform="translate(8.378 1.444)" fill="#4a13b2"/>
+        <path id="Vector-3" data-name="Vector" d="M5.489,1.733H.867A.873.873,0,0,1,0,.867.873.873,0,0,1,.867,0H5.489a.873.873,0,0,1,.867.867A.873.873,0,0,1,5.489,1.733Z" transform="translate(8.378 14.155)" fill="#4a13b2"/>
+        <path id="Vector-4" data-name="Vector" d="M10.111,1.733H.867A.873.873,0,0,1,0,.867.873.873,0,0,1,.867,0h9.244a.873.873,0,0,1,.867.867A.873.873,0,0,1,10.111,1.733Z" transform="translate(8.378 18.777)" fill="#4a13b2"/>
+        <path id="Vector-5" data-name="Vector" d="M0,0H27.732V27.732H0Z" fill="none" opacity="0"/>
+        <path id="Vector-6" data-name="Vector" d="M0,0H27.732V27.732H0Z" fill="none" opacity="0"/>
+      </g>
+    </g>
+  </g>
+</svg>

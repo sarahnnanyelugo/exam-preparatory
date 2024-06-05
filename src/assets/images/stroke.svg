@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="41.095" height="41.095" viewBox="0 0 41.095 41.095">
+  <g id="chart" transform="translate(0.75 0.75)">
+    <line id="Line_14" data-name="Line 14" y2="13.532" transform="translate(10.633 19.413)" fill="none" stroke="#0098da" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <line id="Line_15" data-name="Line 15" y2="17.422" transform="translate(19.873 11.482)" fill="none" stroke="#0098da" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <line id="Line_16" data-name="Line 16" y2="14.571" transform="translate(28.962 18.477)" fill="none" stroke="#0098da" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Path_14510" data-name="Path 14510" d="M29.074,0H10.521C4.054,0,0,4.577,0,11.057v17.48c0,6.48,4.035,11.057,10.521,11.057H29.074c6.486,0,10.521-4.577,10.521-11.057V11.057C39.595,4.577,35.56,0,29.074,0Z" fill="rgba(0,0,0,0)" stroke="#0098da" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" fill-rule="evenodd"/>
+  </g>
+</svg>

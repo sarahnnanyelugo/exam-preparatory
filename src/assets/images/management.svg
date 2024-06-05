@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="45.025" height="45.024" viewBox="0 0 45.025 45.024">
+  <g id="vuesax_twotone_book" data-name="vuesax/twotone/book" transform="translate(-492 -188)">
+    <g id="book" transform="translate(492 188)">
+      <path id="Vector" d="M0,30.016V9.38C0,1.876,1.876,0,9.38,0H22.512c7.5,0,9.38,1.876,9.38,9.38V28.14c0,.263,0,.525-.019.788" transform="translate(6.566 3.752)" fill="none" stroke="#ed2f59" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" opacity="0.4"/>
+      <path id="Vector-2" data-name="Vector" d="M5.347,0H31.892V6.566a6.573,6.573,0,0,1-6.566,6.566H6.566A6.573,6.573,0,0,1,0,6.566V5.347A5.356,5.356,0,0,1,5.347,0Z" transform="translate(6.566 28.14)" fill="none" stroke="#ed2f59" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Vector-3" data-name="Vector" d="M0,0H15.008" transform="translate(15.008 13.132)" fill="none" stroke="#ed2f59" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" opacity="0.4"/>
+      <path id="Vector-4" data-name="Vector" d="M0,0H9.38" transform="translate(15.008 19.698)" fill="none" stroke="#ed2f59" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" opacity="0.4"/>
+      <path id="Vector-5" data-name="Vector" d="M0,0H45.025V45.025H0Z" transform="translate(45.025 45.025) rotate(180)" fill="none" opacity="0"/>
+    </g>
+  </g>
+</svg>

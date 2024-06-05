@@ -1,0 +1,14 @@
+<svg   width="120px" height="120px" xmlns="http://www.w3.org/2000/svg">
+    <path className="outer-path" stroke="#fff"
+          d="M 60 60 m 0 -50 a 50 50 0 1 1 0 100 a 50 50 0 1 1 0 -100"
+          style="stroke-dashoffset: 628.407; stroke-dasharray: 314.204, 354.055, 148.409; visibility: visible;"></path>
+    <path className="inner-path" stroke="rgba(255, 255, 255, 0.5)"
+          d="M 60 60 m 0 -30 a 30 30 0 1 1 0 60 a 30 30 0 1 1 0 -60"
+          style="stroke-dashoffset: 377.044; stroke-dasharray: 188.522, 232.259, 108.593; visibility: visible;"></path>
+    <path className="success-path" stroke="#fff" d="M 60 10 A 50 50 0 0 1 91 21 L 75 45 L 55 75 L 45 65"
+          style="stroke-dashoffset: 225.12; stroke-dasharray: 112.56, 112.56, 0.1; visibility: hidden;"></path>
+    <path className="error-path" stroke="#fff" d="M 60 10 A 50 50 0 0 1 95 25 L 45 75"
+          style="stroke-dashoffset: 219.551; stroke-dasharray: 109.776, 109.776, 0.1; visibility: hidden;"></path>
+    <path className="error-path2" stroke="#fff" d="M 60 30 A 30 30 0 0 1 81 81 L 45 45"
+          style="stroke-dashoffset: 241.764; stroke-dasharray: 120.882, 120.882, 0.1; visibility: hidden;"></path>
+</svg>

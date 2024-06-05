@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="19" height="19" viewBox="0 0 19 19">
+  <g id="vuesax_linear_book-square" data-name="vuesax/linear/book-square" transform="translate(-492 -188)">
+    <g id="book-square" transform="translate(492 188)">
+      <path id="Vector" d="M5.542,15.833h4.75c3.958,0,5.542-1.583,5.542-5.542V5.542C15.833,1.583,14.25,0,10.292,0H5.542C1.583,0,0,1.583,0,5.542v4.75C0,14.25,1.583,15.833,5.542,15.833Z" transform="translate(1.583 1.583)" fill="none" stroke="#161617" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <g id="Group" transform="translate(4.449 4.984)">
+        <path id="Vector-2" data-name="Vector" d="M10.1,7.1V1.017A.992.992,0,0,0,9.009.011H8.978a9.532,9.532,0,0,0-3.57,1.2l-.087.055a.587.587,0,0,1-.538,0l-.127-.079A9.424,9.424,0,0,0,1.093,0,1,1,0,0,0,0,1.009V7.1a1.034,1.034,0,0,0,.879,1l.142.024A12.825,12.825,0,0,1,4.774,9.361l.024.008a.521.521,0,0,0,.483,0A12.861,12.861,0,0,1,9.049,8.126L9.215,8.1A1.028,1.028,0,0,0,10.1,7.1Z" fill="none" stroke="#161617" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+        <path id="Vector-3" data-name="Vector" d="M0,0V7.568" transform="translate(5.051 1.428)" fill="none" stroke="#161617" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      </g>
+      <path id="Vector-4" data-name="Vector" d="M0,0H19V19H0Z" fill="none" opacity="0"/>
+    </g>
+  </g>
+</svg>

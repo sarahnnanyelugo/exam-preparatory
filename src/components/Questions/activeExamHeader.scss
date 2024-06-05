@@ -1,0 +1,103 @@
+
+
+.test-instructions-div22 {
+  padding-right: 3px;
+  padding-left: 3px;
+}
+
+.student-details{
+  @media screen and (max-width: 1440px) and
+  (min-width: 1025px) {
+    .name-cls {
+      p {
+        flex: 1;
+      }
+
+      h6 {
+        //margin-right: 0.5rem;
+      }
+    }
+    .mt4{
+      margin-top: 40px;
+    }
+    .timer{
+      //display: flex;
+      justify-content: end;
+    }
+    width: 66.333333% !important;
+    padding: 10px 5px!important;
+  }
+  @media screen and (max-width: 1024px)
+  and (min-width: 769px) {
+    .name-cls {
+      p {
+        flex: 1;
+      }
+
+      h6 {
+        //margin-right: 0.5rem;
+      }
+    }
+    .mt4{
+      margin-top: 40px;
+    }
+    .timer{
+      //display: flex;
+      justify-content: end;
+    }
+    width: 89.333333% !important;
+    padding: 10px 5px!important;
+  }
+  @media screen and (max-width: 768px)
+  and (min-width: 621px) {
+    .name-cls {
+      p {
+        flex: 1;
+      }
+
+      h6 {
+        //margin-right: 0.5rem;
+      }
+    }
+    .mt4{
+      margin-top: 40px;
+    }
+    .timer{
+      //display: flex;
+      justify-content: end;
+    }
+    .offset-md-4 {
+      margin-left: 26.333333%;
+    }
+    .col-md-5 {
+      width: 44.666667%;
+    }
+    .col-md-11 {
+      flex: 0 0 auto;
+      width: 97.666667%;
+    }
+      width: 98.333333% !important;
+    padding: 10px 5px!important;
+  }
+  @media screen and (max-width: 620px) {
+    .name-cls {
+      p {
+        flex: 1;
+      }
+
+      h6 {
+        //margin-right: 0.5rem;
+      }
+    }
+    .mt4{
+      margin-top: 0;
+    }
+    .timer{
+      display: flex;
+      justify-content: end;
+    }
+    padding: 10px 5px!important;
+  }
+
+}
+

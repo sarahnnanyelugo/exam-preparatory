@@ -1,0 +1,86 @@
+
+.test-instructions-div22-review {
+  padding-top: 80px;
+  padding-bottom: 100px;
+  background: url("../../assets/images/brush-bg.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  .student-details {
+    border: 1px solid #e7e7e7;
+    box-shadow: 0px 3px 6px #0000000d;
+    border-radius: 10px;
+    background: #fff;
+    padding: 10px 20px;
+    margin-bottom: 30px;
+  }
+  .review-board {
+    background: var(--unnamed-color-ffffff) 0% 0% no-repeat padding-box;
+    background: #ffffff 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #0000000d;
+    border: 1px solid #e7e7e7;
+    border-radius: 10px;
+    opacity: 1;
+    height: fit-content;
+    padding: 30px;
+    .label-hover{
+      background-color: white;
+    }
+    label{
+      cursor: auto;
+    }
+  }
+
+  @media screen and (max-width: 620px) {
+
+      padding-right: 5px;
+      padding-left: 5px;
+      padding-top: 10px;
+      padding-bottom: 0px;
+    .review-board {
+      padding-right: 10px;
+      padding-left: 10px;
+      .offset-3 {
+        margin-left: 10%;
+      }
+
+      .label-hover {
+        label {
+          display: inline;
+        }
+      }
+
+      .mag-left-comp {
+        padding-left: 0.2rem;
+      }
+
+      .title-div,.div-img {
+        p {
+          img {
+            width: 17rem;
+          }
+        }
+        word-wrap: break-word;
+        .mt {
+          margin-top: 16px;
+        }
+      }
+    }
+    .pre-next-btns {
+      margin-top: 0;
+    }
+    .test-instructions-div22 .instructions,.instructions4{
+      padding: 30px 5px;
+    }
+    .previous-btn {
+      width: 124px !important;
+    }
+    .offcanvas-btn {
+      border: solid 1px #5eaa42;
+      color: #5eaa42;
+      border-radius: 100px;
+      background: #fff;
+      width: auto;
+      height: 44px;
+    }
+  }
+}

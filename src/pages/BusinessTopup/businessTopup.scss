@@ -1,0 +1,332 @@
+@import "../../variables";
+@import "../../shared-styles";
+
+.busi-top {
+  .form-container {
+    border: solid 1px rgb(255, 255, 255);
+    border-radius: 15px;
+    box-shadow: 0 0 1px 1px rgb(221, 221, 221);
+    padding: 5px 20px 50px 20px;
+    background: #fff;
+
+    .or {
+      .bodda {
+        border-top: solid 1px #efefef;
+        margin-top: 30px;
+      }
+
+      p {
+        margin-top: 15px;
+      }
+    }
+
+    .form-heading {
+      color: #161617;
+      font-size: 16px;
+    }
+
+    a.center-logo {
+      display: flex;
+      justify-content: center;
+    }
+
+    .form-label-group {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: .5rem;
+    }
+  }
+
+  .vHead {
+    font-weight: bold !important;
+  }
+
+  //.form-check-label img{
+  //  width: 13rem;
+  //}
+
+  .mb-3 .form-check-label {
+    flex: 1;
+  }
+
+  .form-check-label img {
+    width: 100%;
+    height: 22vh;
+  }
+
+  .form {
+    width: 100%;
+    position: relative;
+    height: fit-content;
+    overflow: hidden;
+  }
+
+  .form input {
+    width: 100%;
+    height: 100%;
+    color: #191919;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    border-radius: 10px;
+    height: 40px;
+    margin-top: 20px;
+    border: solid 1px #e7e7e7;
+    background: #fff;
+    font-family: rebondG-Semi-Bold;
+  }
+
+  .form label {
+    position: absolute;
+    bottom: 4px;
+    left: 20px;
+    width: 100%;
+    height: 100%;
+    font-size: 12px;
+    font-family: rebondG;
+    color: #161617;
+    pointer-events: none;
+  }
+
+  .form label::after {
+    content: "";
+    position: absolute;
+    bottom: -1px;
+    left: 0px;
+    width: 100%;
+    height: 100%;
+    transform: translateX(-100%);
+    transition: all 0.3s ease;
+  }
+
+  .content-name {
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    padding-bottom: 5px;
+    transition: all 0.3s ease;
+  }
+
+  .form input:focus {
+    outline: none;
+  }
+
+  .form input:focus + .label-name .content-name,
+  .form input:valid + .label-name .content-name {
+    transform: translateY(-84%);
+    font-size: 11px;
+    left: 0px;
+    color: black;
+  }
+
+  .form input:focus + .label-name::after,
+  .form input:valid + .label-name::after {
+    transform: translateX(0%);
+  }
+
+  .password-input {
+    input {
+      border: solid 1px #edecec !important;
+      padding: 9px 5px;
+      border-radius: 10px;
+      background: #fff !important;
+      width: 100% !important;
+      height: 40px;
+    }
+
+    img {
+      margin-left: -35px;
+      border-right: solid 1px rgb(226, 220, 220) !important;
+      border-radius: 7px;
+      @media screen and (max-width: 620px) {
+        margin-left: -18px;
+      }
+    }
+  }
+
+  .formbutton {
+    border: none;
+    padding: 10px 0;
+    border-radius: 35px;
+    margin-top: 5px;
+    width: 100%;
+    font-size: 16px !important;
+    font-weight: bold !important;
+    font-family: rebondG-Medium;
+  }
+
+  .formButtonActive {
+    color: #fff;
+
+    background: #2f67d8;
+
+    &:hover {
+      background: #1e4ba7;
+      transition: 0.5 ease;
+    }
+
+    @media screen and (max-width: 620px) {
+    }
+  }
+
+  .formButtonInactive {
+    color: #100f0f;
+    cursor: not-allowed;
+    background: #9b9c9f;
+
+    &:hover {
+      background: #8f929c;
+      transition: 0.5 ease;
+    }
+
+    @media screen and (max-width: 620px) {
+    }
+  }
+
+  .css-qbdosj-Input {
+    padding: 6px 5px !important;
+  }
+
+  .css-13cymwt-control {
+    border-radius: 10px !important;
+    height: 40px !important;
+    border: solid 1px rgb(236, 233, 233) !important;
+  }
+
+  //////////////////////////////////////////////////////////////////////////////////////////
+  .logo-mar-btm {
+    margin-bottom: 1rem;
+  }
+
+  .formpassword {
+    width: 100%;
+    position: relative;
+    height: fit-content;
+    overflow: hidden;
+    margin-bottom: 0.5rem;
+  }
+
+  .formpassword input {
+    width: 100%;
+    height: 100%;
+    color: #191919;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    border-radius: 10px;
+    height: 40px;
+    margin-top: 20px;
+    border: solid 1px #e7e7e7;
+    background: #fff;
+    font-family: rebondG-Semi-Bold;
+  }
+
+  .formpassword label {
+    position: absolute;
+    bottom: 12px;
+    left: 20px;
+    width: 100%;
+    height: 100%;
+    font-size: 14px;
+    font-family: rebondG;
+    color: #161617;
+    pointer-events: none;
+  }
+
+  .formpassword label::after {
+    content: "";
+    position: absolute;
+    bottom: -1px;
+    left: 0px;
+    width: 100%;
+    height: 100%;
+    transform: translateX(-100%);
+    transition: all 0.3s ease;
+  }
+
+  .content-name {
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    padding-bottom: 5px;
+    transition: all 0.3s ease;
+  }
+
+  .formpassword input:focus {
+    outline: none;
+  }
+
+  .formpassword input:focus + .label-name .content-name,
+  .formpassword input:valid + .label-name .content-name {
+    transform: translateY(-52%);
+    font-size: 12px;
+    left: 0px;
+    color: black;
+  }
+
+  .formpassword input:focus + .label-name::after,
+  .formpassword input:valid + .label-name::after {
+    transform: translateX(0%);
+  }
+
+  .css-1jqq78o-placeholder {
+    font-family: rebondBook !important;
+    color: #161617 !important;
+    font-size: 12px !important;
+    font-family: rebondBook !important;
+  }
+
+  .PhoneInputCountry {
+    background: #fff !important;
+  }
+
+  .hide {
+    display: none;
+  }
+
+  .show {
+    display: block;
+  }
+
+  .PhoneInputCountry {
+    margin-top: 21px !important;
+    height: 40px !important;
+    border: solid 1px #edecec !important;
+
+    padding-left: 7px !important;
+    border-top-left-radius: 7px !important;
+    border-bottom-left-radius: 7px !important;
+    margin-right: 0 !important;
+  }
+
+  .PhoneInputInput {
+    border-left: none !important;
+    border-top-left-radius: 0 !important;
+    border-bottom-left-radius: 0 !important;
+  }
+
+  ::placeholder {
+    color: #161617 !important;
+    font-size: 12px;
+    font-family: rebondBook;
+  }
+
+  .submit-btn {
+    @include main-btn;
+  }
+
+  .google-cls iframe {
+    width: 100% !important;
+  }
+
+  .form-control-wrap .fpassword {
+    color: black;
+  }
+
+
+}
+
+.auth-page {
+  padding-top: 1rem;
+}

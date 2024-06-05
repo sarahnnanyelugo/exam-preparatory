@@ -1,0 +1,7 @@
+<svg id="profile-2user" xmlns="http://www.w3.org/2000/svg" width="31" height="31" viewBox="0 0 31 31">
+  <path id="Vector" d="M5.942,11.457a2.348,2.348,0,0,0-.426,0,5.741,5.741,0,1,1,.426,0Z" transform="translate(5.89 2.583)" fill="none" stroke="#0098da" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  <path id="Vector-2" data-name="Vector" d="M.168,0A4.518,4.518,0,0,1,4.689,4.521,4.527,4.527,0,0,1,.336,9.042a1.459,1.459,0,0,0-.336,0" transform="translate(21.028 5.167)" fill="none" stroke="#0098da" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  <path id="Vector-3" data-name="Vector" d="M2.344,1.773c-3.126,2.093-3.126,5.5,0,7.582a12.615,12.615,0,0,0,12.93,0c3.126-2.092,3.126-5.5,0-7.582A12.674,12.674,0,0,0,2.344,1.773Z" transform="translate(3.029 17.034)" fill="none" stroke="#0098da" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  <path id="Vector-4" data-name="Vector" d="M0,7.75A6.248,6.248,0,0,0,2.532,6.626a3.272,3.272,0,0,0,0-5.515A6.424,6.424,0,0,0,.039,0" transform="translate(23.689 18.083)" fill="none" stroke="#0098da" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  <path id="Vector-5" data-name="Vector" d="M0,0H31V31H0Z" transform="translate(31 31) rotate(180)" fill="none" opacity="0"/>
+</svg>
